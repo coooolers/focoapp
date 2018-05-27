@@ -105,3 +105,6 @@
 
 ## 1.0.6
 * Updated "Pull to Refresh" message
+
+## 1.0.x
+* 
